@@ -12,8 +12,8 @@ function App() {
       <Navbar bg="dark" variant="dark">
         <Navbar.Brand href="/">Gabe Deml</Navbar.Brand>
         <Nav className="ml-auto">
-          <Nav.Link href="about">About</Nav.Link>
-          <Nav.Link href="projects">Projects</Nav.Link>
+          <Nav.Link href="art">ART</Nav.Link>
+          <Nav.Link href="code">Code</Nav.Link>
           <a href="https://github.com/GabrielDeml">
             <img src={gitHubLogo} alt="GitHub" width="40" height="40" />
           </a>
